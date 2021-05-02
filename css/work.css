@@ -21,6 +21,9 @@ nav li {
     color: #E8DCD7;
     font-family: mostra-nuova, sans-serif;
 }
+.active {
+  color: #84948c;
+}
 /*  work sections */
 h1 {
     color: #E8DCD7;
