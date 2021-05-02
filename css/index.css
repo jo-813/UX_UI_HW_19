@@ -56,6 +56,9 @@ button {
     display: inline-block;
 
 }
+button:hover {
+    border: 2px solid #E8DCD7;
+}
 /*   footer   */
 footer {
     background-color: #84948c;
